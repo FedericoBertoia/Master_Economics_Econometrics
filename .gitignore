@@ -1,0 +1,16 @@
+# ============================================================
+# Combined .gitignore for Master_Economics_Econometrics
+# Merged from the individual project repositories.
+# ============================================================
+
+# --- Sentiment-Analysis-ISTAT ---
+Sentiment-Analysis-ISTAT/Burocratic Stuff (may be interesting)/
+
+# --- Machine-Learning-Forecasting ---
+# (no ignore rules in original repo)
+
+# --- Macroeconometrics-SVAR ---
+# (no ignore rules in original repo)
+
+# --- Synthetic-DiD ---
+# (no ignore rules in original repo)
